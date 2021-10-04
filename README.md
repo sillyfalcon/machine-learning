@@ -1,5 +1,5 @@
 # machine-learning-walmart-store-sales-prediction
-Checkout the Jupyter Notebook here: https://jovian.ai/anushree-k/final-walmart-simple-rf-gbm
+Check out the Jupyter Notebook here: https://jovian.ai/anushree-k/final-walmart-simple-rf-gbm
 
 <b>Business Problem Statement</b>:
 - Predicting department-wide weekly sales for each Walmart store
