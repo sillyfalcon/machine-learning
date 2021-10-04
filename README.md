@@ -26,5 +26,9 @@ Checkout the Jupyter Notebook here: https://jovian.ai/anushree-k/final-walmart-s
 - Save the best model
 - Summarise insights and learning
 
-<b>Dataset</b>
+<b>About the Dataset</b>
+This Dataset is from the Walmart Recruiting - Store Sales Forecasting competition on Kaggle.
+- It has 4 files train.csv, test.csv, store.csv and features.csv all totaling 5 GB in size
+- This dataset has 536,634 rows ( train = 421,570, test = 115,064) and 14 columns.
+Kaggle_url: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
   kaggle_url: "https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data"
